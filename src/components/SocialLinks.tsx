@@ -10,7 +10,7 @@ const SocialLinks: React.FC = () => {
           href={link.url}
           target="_blank"
           rel="noopener noreferrer"
-          className={`${link.colorClass} hover:underline`}
+          className={`${link.colorClass} font-spaceMono hover:underline`}
         >
           {link.label}
         </a>
