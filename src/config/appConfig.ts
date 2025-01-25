@@ -1,4 +1,4 @@
 export const appConfig = {
-    comingSoonText: "Site Coming Soon",
+    comingSoonText: "Coming Soon",
   };
   
