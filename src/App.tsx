@@ -15,6 +15,9 @@ const App: React.FC = () => {
         {appConfig.comingSoonText}
       </h1>
       <SocialLinks />
+      <p className="absolute bottom-4 text-gray-600 text-sm">
+        {appConfig.contact}
+      </p>
     </div>
   );
 };
